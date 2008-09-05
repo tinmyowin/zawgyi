@@ -1,1 +1,0 @@
-g++ -w -fshort-wchar bgl_test.cpp ../bgl_core/lib.cpp ../bgl_core/regex.cpp ../bgl_core/fontmap.cpp ../bgl_core/fontconv.cpp

@@ -1,1 +1,0 @@
-regsvr32 Release\TextService.dll /u
