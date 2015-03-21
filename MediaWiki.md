@@ -1,0 +1,1 @@
+[MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) is a free software wiki package originally written for Wikipedia. It is now used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
